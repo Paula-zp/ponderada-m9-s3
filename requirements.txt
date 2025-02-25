@@ -1,0 +1,6 @@
+fastapi==0.95.0
+uvicorn==0.22.0
+pydantic==1.10.7
+requests==2.31.0
+behave==1.2.7
+locust==2.15.1
