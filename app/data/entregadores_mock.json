@@ -1,0 +1,37 @@
+{
+    "entregadores": [
+        {
+            "id": 1,
+            "nome": "João Silva",
+            "desempenho": 4.8,
+            "divida": 50,
+            "lucro": 2000.5,
+            "numero_entregas": 120,
+            "saldo": 150.75,
+            "estado": "Disponível",
+            "ultima_atualizacao": "2025-02-20T14:30:00"
+        },
+        {
+            "id": 2,
+            "nome": "Maria Souza",
+            "desempenho": 4.5,
+            "divida": 20,
+            "lucro": 1200,
+            "numero_entregas": 90,
+            "saldo": 80.3,
+            "estado": "Entregando",
+            "ultima_atualizacao": "2025-02-20T14:30:00"
+        },
+        {
+            "id": 3,
+            "nome": "Carlos Oliveira",
+            "desempenho": 4.9,
+            "divida": 0,
+            "lucro": 3400,
+            "numero_entregas": 150,
+            "saldo": 220,
+            "estado": "Aguardando Pedido",
+            "ultima_atualizacao": "2025-02-20T14:30:00"
+        }
+    ]
+}
